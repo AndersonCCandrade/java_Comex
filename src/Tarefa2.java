@@ -5,6 +5,6 @@ public class Tarefa2 {
 
         System.out.println("Seja bem vindo ao COMEX!");
         System.out.println();
-        
+
     }
 }
