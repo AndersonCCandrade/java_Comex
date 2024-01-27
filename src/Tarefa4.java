@@ -15,10 +15,10 @@ public class Tarefa4 {
         String mensagem = """
                         >>> Listagem de Clientes
                         ____________________________________
-                        Nome: Fulano
+                        Nome:               Fulano
                         Data de Nascimento: %d
                         ____________________________________
-                        Nome: Sicrano
+                        Nome:               Sicrano
                         Data de Nascimento: %d
                         
                 """.formatted(anoFulano, anoSicrano);
